@@ -18,7 +18,7 @@ docker run -it \
 --entrypoint=/bin/bash \
 -p 3000:3000 \
 -p 3001:3001 \
-jbartsch/meteor-chimp-circleci
+jbartsch/meteor-chimp
 ```
 
 ## Contributing
